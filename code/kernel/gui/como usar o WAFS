@@ -1,0 +1,8 @@
+CPrt("",'C');
+CriaPasta("C:/documentos pessoais/musicas", "C:/documentos pessoais");
+CriaArquivo("C:/documentos pessoais/musicas/nota.txt", "C:/documentos pessoais/musicas");
+if(ExisteItem("FILE", "C:/documentos pessoais/musicas/nota.txt", "C:/documentos pessoais/musicas")){
+	//printf("Arquivo encontrado!\n");
+	//for(;;);
+}
+DeletaItem("FILE", "C:/documentos pessoais/musicas/nota.txt", "C:/documentos pessoais/musicas");

@@ -1,0 +1,13 @@
+#ifndef __BUTTONS_DEFINES__
+#define __BUTTONS_DEFINES__
+
+#define NOT_DRAW_BUTTON -1
+#define NOT_CURSOR_IN_BUTTON 0
+#define CURSOR_IN_BUTTON 1
+#define CLICK_IN_BUTTON 2
+#define BTN_COLOR_AZUL 			0x1
+#define BTN_COLOR_VERDE			0x2
+#define BTN_COLOR_BRANCO		0x3
+#define BTN_COLOR_AMARELO		0x4
+
+#endif

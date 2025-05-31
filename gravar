@@ -1,0 +1,3 @@
+lsblk
+
+sudo dd if=myos.iso of=/dev/sdX bs=4M status=progress
