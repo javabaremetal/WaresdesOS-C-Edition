@@ -1,4 +1,4 @@
-# WaresdesOS
+# WaresdesOS C Edition
 
 **WaresdesOS C Edition** é um sistema operacional experimental escrito em **C**, criado com o objetivo de ensinar e demonstrar conceitos de programação de baixo nível.  
 Este projeto foi desenvolvido como uma iniciativa de aprendizado e está disponível publicamente para estudo e exploração.
